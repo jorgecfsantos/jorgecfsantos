@@ -1,11 +1,11 @@
 <!-- Header Animado -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jorge%20Cipriano%20Fernandes%20dos%20Santos&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Matem%C3%A1tico%20%7C%20Desenvolvedor%20%7C%20Cientista%20de%20Dados&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jorge%20Cipriano%20Fernandes%20dos%20Santos&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Matem%C3%A1tico%20%7C%20Desenvolvedor%20%7C%20Entusiasta%20de%20Dados&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CBF&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decis%C3%B5es;Modelagem+matem%C3%A1tica+e+Machine+Learning;Python+%7C+R+%7C+SQL+%7C+Cloud;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CBF&center=true&vCenter=true&width=650&lines=Matem%C3%A1tico+por+forma%C3%A7%C3%A3o;Desenvolvedor+PHP+%7C+JavaScript+%7C+Fortran;Desenvolvimento+de+jogos+com+Construct+3;Estudando+Ci%C3%AAncia+de+Dados+%F0%9F%93%8A;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Badges de Redes -->
@@ -20,7 +20,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visualiza%C3%A7%C3%B5es&color=2C9CBF&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Seguidores&style=flat-square&color=2C9CBF"/>
-  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20projetos-brightgreen?style=flat-square"/>
 </p>
 
 </div>
@@ -29,14 +29,15 @@
 
 ## 👨‍🔬 Sobre mim
 
-Olá! Sou **Jorge Cipriano Fernandes dos Santos**, profissional com formação em **Matemática** e **Modelagem Computacional** e atuação nas áreas de **Desenvolvimento de Software** e **Ciência de Dados**. 
+Olá! Sou **Jorge Cipriano Fernandes dos Santos**, profissional com formação em **Matemática**, atuando como **Desenvolvedor** com foco em **PHP, JavaScript e Fortran**, e explorando o universo do **desenvolvimento de jogos com Construct 3**.
 
-Minha base matemática me permite abordar problemas complexos com rigor analítico, enquanto minhas habilidades em programação e dados me capacitam a construir soluções escaláveis, modelos preditivos e pipelines de dados de ponta a ponta.
+Minha base matemática me dá o rigor analítico necessário para resolver problemas complexos, enquanto minhas habilidades em programação me permitem construir aplicações web, sistemas e jogos. Atualmente, estou em processo de **aprendizado em Ciência de Dados**, ampliando meus horizontes para a análise e modelagem de informações.
 
-- 🔭 Atualmente trabalhando em **projetos de Machine Learning e Analytics**
-- 🌱 Aprofundando conhecimentos em **MLOps, Deep Learning e Cloud Computing**
-- 💡 Interesses: **Estatística Bayesiana, Otimização, NLP, Visão Computacional**
-- 🎯 Objetivo: **Gerar valor através de dados e tecnologia**
+- 🔭 Atualmente desenvolvendo **aplicações web em PHP e JavaScript** e **jogos em Construct 3**
+- 📚 Estudando **Ciência de Dados** (estatística, análise de dados, machine learning)
+- 🎮 Apaixonado por **desenvolvimento de jogos** e **interatividade**
+- 💡 Interesses: **Matemática Aplicada, Web, Jogos 2D, Análise de Dados**
+- 🎯 Objetivo: **Unir matemática, código e criatividade para gerar valor**
 - ⚡ Curiosidade: **A matemática é a linguagem universal — eu a uso para programar o futuro.**
 
 ---
@@ -44,33 +45,30 @@ Minha base matemática me permite abordar problemas complexos com rigor analíti
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Ciência de Dados & Machine Learning
+### Desenvolvimento de Jogos
+![Construct 3](https://img.shields.io/badge/Construct%203-00B4D8?style=for-the-badge&logo=construct3&logoColor=white)
+
+### 📊 Ciência de Dados — *em aprendizado*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Bancos de Dados & Big Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+> 🚧 *Estudando ativamente estatística, análise de dados e fundamentos de Machine Learning.*
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Ferramentas & Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -93,18 +91,19 @@ Minha base matemática me permite abordar problemas complexos com rigor analíti
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [📈 **Projeto 1**](https://github.com/SEU-USUARIO/projeto1) | Modelo preditivo para [área/negócio] com X% de acurácia | Python, Scikit-learn, XGBoost |
-| [🧠 **Projeto 2**](https://github.com/SEU-USUARIO/projeto2) | Pipeline de NLP para análise de sentimento em tempo real | Python, PyTorch, FastAPI |
-| [📊 **Projeto 3**](https://github.com/SEU-USUARIO/projeto3) | Dashboard interativo para visualização de KPIs | R, Shiny, Plotly |
-| [⚙️ **Projeto 4**](https://github.com/SEU-USUARIO/projeto4) | Otimização matemática aplicada a [problema real] | Julia, JuMP |
+| [🎮 **Jogo Construct 3**](https://github.com/SEU-USUARIO/jogo-construct) | Jogo 2D com mecânicas de [descrever] e design interativo | Construct 3 |
+| [🌐 **Aplicação Web PHP**](https://github.com/SEU-USUARIO/app-php) | Sistema web com autenticação e CRUD completo | PHP, MySQL, HTML, CSS |
+| [⚡ **App JavaScript**](https://github.com/SEU-USUARIO/app-js) | Aplicação interativa no navegador com consumo de API | JavaScript, HTML, CSS |
+| [🔢 **Algoritmo em Fortran**](https://github.com/SEU-USUARIO/fortran-calc) | Cálculo numérico e modelagem matemática | Fortran |
 
 ---
 
-## 📚 Formação & Certificações
+## 📚 Formação & Aprendizado
 
 - 🎓 **Bacharelado/Licenciatura em Matemática** — [Instituição]
-- 📘 **Pós-graduação em Ciência de Dados / Machine Learning** — [Instituição]
-- 🏅 **Certificações:** AWS ML Specialty • TensorFlow Developer • IBM Data Science
+- 📘 **Estudando Ciência de Dados** — estatística, análise de dados e machine learning
+- 🎮 **Desenvolvimento de Jogos** — Construct 3
+- 🏅 **Cursos complementares:** PHP, JavaScript, HTML/CSS, Fortran
 
 ---
 
@@ -118,7 +117,7 @@ Minha base matemática me permite abordar problemas complexos com rigor analíti
 
 ## 📫 Vamos conversar!
 
-Estou sempre aberto a **colaborações**, **projetos freelance** e **oportunidades** nas áreas de Ciência de Dados, Desenvolvimento e Pesquisa Aplicada.
+Estou sempre aberto a **colaborações**, **projetos freelance** e **oportunidades** nas áreas de Desenvolvimento Web, Desenvolvimento de Jogos, Matemática Aplicada e Ciência de Dados.
 
 <div align="center">
 
